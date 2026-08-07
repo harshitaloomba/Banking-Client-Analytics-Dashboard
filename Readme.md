@@ -162,23 +162,19 @@ The notebook includes:
 ## 📁 Repository Structure
 
 ```text
-Banking-Client-Analytics/
+Banking-Client-Analytics-Dashboard/
 │
-├── dashboard/
-│   └── Banking_Dashboard.pbix
-│
-├── data/
-│   └── Banking.csv
+├── diagrams/
+│   ├── Home.png
+│   ├── Loan Analysis.png
+│   ├── Deposit Analysis.png
+│   └── Summary.png
 │
 ├── notebook/
 │   └── BankingEDA1.ipynb
 │
-├── diagrams/
-│   ├── home.png
-│   ├── loan_analysis.png
-│   ├── deposit_analysis.png
-│   └── summary.png
-│
+├── Banking Dashboard.pbix
+├── Banking.csv
 └── README.md
 ```
 
