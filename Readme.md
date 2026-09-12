@@ -119,15 +119,6 @@ The notebook includes:
 
 ## 📸 Dashboard Preview
 
-### Home Dashboard
-<img width="1280" height="720" alt="Home" src="https://github.com/user-attachments/assets/60c3b093-cbf3-485a-a5c6-9ca0786b084b" />
-
-### Loan Analysis
-<img width="1280" height="720" alt="Loan Analysis" src="https://github.com/user-attachments/assets/2057dbb1-ead0-4e06-af6f-0fcd6b912215" />
-
-### Deposit Analysis
-<img width="1280" height="720" alt="Deposit Analysis" src="https://github.com/user-attachments/assets/d72da5fa-b736-46a0-a5e5-ccacacc6b094" />
-
 ### Summary Dashboard
 <img width="1280" height="720" alt="Summary" src="https://github.com/user-attachments/assets/7e87061c-cbad-425d-9f35-3572790eb8bf" />
 
@@ -165,11 +156,7 @@ The notebook includes:
 Banking-Client-Analytics-Dashboard/
 │
 ├── diagrams/
-│   ├── Home.png
-│   ├── Loan Analysis.png
-│   ├── Deposit Analysis.png
-│   └── Summary.png
-│
+│   
 ├── notebook/
 │   └── BankingEDA1.ipynb
 │
